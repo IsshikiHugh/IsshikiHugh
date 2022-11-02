@@ -11,15 +11,18 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=isshikihugh&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=isshikihugh&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="center" />
+</div>  
 
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=isshikihugh&&style=flat-square" align="center" />
-</div>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isshikihugh&hide_border=true&layout=compact&theme=tokyonight" align="center" /></div>  
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=isshikihugh&&style=flat-square" align="center" />
+</div>  
