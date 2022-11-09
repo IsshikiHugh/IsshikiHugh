@@ -21,11 +21,15 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isshikihugh&hide_border=true&layout=compact&theme=tokyonight" align="center" /></div>  
 
-<br />
+<br/>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=isshikihugh&&style=flat-square" align="center" />
 </div>  
+
+<br/>
+
+### My Skills
 
 <div align="center">  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
