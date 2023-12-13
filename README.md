@@ -10,9 +10,9 @@
 
 ### Glad to see you here!  
 - CS undergraduate @ Zhejiang University
+- Intern of CAD&CG, ZJU
 - Member of QSCTech
 - Member of X-Lab
-- Intern of CAD&CG, ZJU
 - My notebook: [📓](https://note.isshikih.top) 👈  
 - My blog: [☕️](https://blog.isshikih.top) 👈  
   
@@ -22,13 +22,12 @@
 
 ## Github Stats  
 
-<img src="https://github-readme-stats.vercel.app/api?username=isshikihugh&show_icons=true&count_private=true&hide_border=true&theme=nord" align="left" style="width: 100%" />
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=isshikihugh&&style=flat-square)  
-
-<br />
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=isshikihugh&show_icons=true&count_private=true&hide_border=true&theme=nord" style="width: 50%" />
+    <br/>
+    <img src="https://komarev.com/ghpvc/?username=isshikihugh&&style=flat-square"/>
+</div>
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
+<div align="center">Modefied from <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
