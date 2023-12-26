@@ -6,15 +6,14 @@
 </a>  
   
 
-
-
 ### Glad to see you here!  
+
 - CS undergraduate @ Zhejiang University
-- Intern of CAD&CG, ZJU
+- Intern of the State Key Lab of CAD&CG, ZJU
 - Member of QSCTech
 - Member of X-Lab
-- My notebook: [📓](https://note.isshikih.top) 👈  
-- My blog: [☕️](https://blog.isshikih.top) 👈  
+- My knwoledge notebook: [📓](https://note.isshikih.top) 👈  
+- My life blog: [☕️](https://blog.isshikih.top) 👈  
   
 
 <br/>  
