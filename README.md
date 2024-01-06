@@ -9,9 +9,6 @@
 ### Glad to see you here!  
 
 - CS undergraduate @ Zhejiang University
-- Intern of the State Key Lab of CAD&CG, ZJU
-- Member of QSCTech
-- Member of X-Lab
 - My knwoledge notebook: [📓](https://note.isshikih.top) 👈  
 - My life blog: [☕️](https://blog.isshikih.top) 👈  
   
