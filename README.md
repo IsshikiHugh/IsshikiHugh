@@ -1,17 +1,8 @@
 ## Hey 👋, I'm Isshiki修!  
-  
 
-<a href="https://github.com/IsshikiHugh" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-  
 
-### Glad to see you here!  
-
-- CS undergraduate @ Zhejiang University
-- My knwoledge notebook: [📓](https://note.isshikih.top) 👈  
-- My life blog: [☕️](https://blog.isshikih.top) 👈  
-  
+- CS undergraduate @ Zhejiang University. I will graduate in 2025.
+- I like to write some really cool(in my opnion) notes while I am learning. Some of them even can serve as textbook for similar course!(Still in my opnion! 🥰) Here my notebook is: [📓](https://note.isshikih.top) 👈
 
 <br/>  
 
