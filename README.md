@@ -2,7 +2,6 @@
 
 
 - CS undergraduate @ Zhejiang University. I will graduate in 2025.
-- I like to write some really cool(in my opnion) notes while I am learning. Some of them even can serve as textbook for similar course!(Still in my opnion! 🥰) Here my notebook is: [📓](https://note.isshikih.top) 👈
 
 <br/>  
 
