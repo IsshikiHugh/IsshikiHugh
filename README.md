@@ -1,4 +1,4 @@
-## Hey 👋, I'm Isshiki修!  
+## Hey 👋, I'm Isshiki修 / Yan XIA / 夏彦! 
 
 
 - CS undergraduate @ Zhejiang University. I will graduate in 2025.
