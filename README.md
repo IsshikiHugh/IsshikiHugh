@@ -1,7 +1,11 @@
 ## Hey 👋, I'm Isshiki修 / Yan XIA / 夏彦! 
 
+I am a CS undergraduate at Zhejiang University, and will graduate in 2025.
 
-- CS undergraduate @ Zhejiang University. I will graduate in 2025.
+I like to write down my study notes. You can find most of the notes in [my digital notebook (Chinese)](https://note.isshikih.top).
+
+In addition, I am a beginning researcher focusing on computer vision and digital humans. For more information, please visit [my academic homepage](https://scholar.isshikih.top).
+
 
 <br/>  
 
