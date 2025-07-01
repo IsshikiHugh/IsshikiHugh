@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Isshiki修 / Yan XIA / 夏彦! 
 
-I am a CS undergraduate at Zhejiang University, and will graduate in 2025.
+I am an incoming CS PhD at UT Austin, and I earned my bachelor’s degree from Zhejiang University in 2025.
 
 I like to write down my study notes. You can find most of the notes in [my digital notebook (Chinese)](https://note.isshikih.top).
 
